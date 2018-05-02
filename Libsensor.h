@@ -15,6 +15,7 @@ class Libsensor {
    int _pintrigger;
    float _distancia;
    float _temps;
+   float hola;
    bool controlarDistancia();
 };
 #endif
